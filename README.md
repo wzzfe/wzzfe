@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Wesley 😁
+## Bem-vindo(a) ao perfil do Wesley 
 
  <div>
    <a href="https://github.com/Wesley">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wzzfey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzzfe&layout=dracula&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wzzfe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzzfe&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
